@@ -2,11 +2,3 @@
 Six exerciceses from the last exam
 
 
-
-
-
-
-
-
-
-# Programming Files
